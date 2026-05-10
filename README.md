@@ -1,3 +1,5 @@
+> **Moved.** Development continues at [`shadownet-protocol/shadownet`](https://github.com/shadownet-protocol/shadownet) under `py/`. PyPI distribution (`shadownet`) and imports are unchanged.
+
 # shadownet-py
 
 [![PyPI](https://img.shields.io/pypi/v/shadownet)](https://pypi.org/project/shadownet/)
